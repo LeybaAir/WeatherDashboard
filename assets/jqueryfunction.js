@@ -17,10 +17,10 @@ $("document").ready(function() {
     $(".wrap").append("<div class='col-sm-3 blue day-2'><div class='dayDisplay'></div><img src='' alt='' class='icon' /><div class='tempDisplay'></div><div class='descDisplay'></div><div class='humidityDisplay'></div><div class='windDisplay'></div></div>");
     $(".wrap").append("<div class='col-sm-3 blue day-3'><div class='dayDisplay'></div><img src='' alt='' class='icon' /><div class='tempDisplay'></div><div class='descDisplay'></div><div class='humidityDisplay'></div><div class='windDisplay'></div></div>");
     $(".wrap").append("<div class='col-sm-3 blue day-4'><div class='dayDisplay'></div><img src='' alt='' class='icon' /><div class='tempDisplay'></div><div class='descDisplay'></div><div class='humidityDisplay'></div><div class='windDisplay'></div></div>");
-    $("body").css("background", "Url('./assets/Images/header_homepage2.JPG')");
     $(".card").append("<div class='box row'></div>");
     $(".box").append("<div class='col-md-6 box-1'></div>");
     $(".box").append("<div class='col-md-6 box-2'></div>");
     $(".box-1").append("<h4>Search History</h4><ul class='searchList'><li class='listCities'></li></ul>");
     $(".box-2").append("<button class='btn-flat waves-effect waves-light'>Clear</button>");
 }); 
+  
