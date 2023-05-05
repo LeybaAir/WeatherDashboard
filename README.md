@@ -78,4 +78,4 @@ This Challenge is graded based on the following criteria:
 
 ### Notes
 Live Link
-Image Screen Shot: ![On a desktop, image displays finished project](../weather%20ss.png)
+(../weather%20ss.png)
