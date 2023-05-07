@@ -77,5 +77,6 @@ This Challenge is graded based on the following criteria:
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
 
 ### Notes
-Live Link
-(../weather%20ss.png)
+Live Link: https://leybaair.github.io/WeatherDashboard/
+![weather ss](https://user-images.githubusercontent.com/123996216/236703351-0a46cca6-a7d1-4f9c-8f41-efb2ddb2a42c.png)
+
